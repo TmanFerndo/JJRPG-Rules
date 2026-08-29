@@ -3,6 +3,6 @@ Iai White Purity Style is a method of Jujutsu that combines advanced Cursed Ener
 
 # Directory
 - [Dove Strike](./Specialized%20Techniques/Iai%20White%20Purity%20Style/Dove%20Strike.md)
-- [Hawk Stance](./Learnable%20Techniques/Specialized%20Techniques/Iai%20White%20Purity%20Style/Hawk%20Stance.md)
-- [Owl Guard](./Learnable%20Techniques/Specialized%20Techniques/Iai%20White%20Purity%20Style/Owl%20Guard.md)
-- [Black Feather Iai](./Learnable%20Techniques/Specialized%20Techniques/Iai%20White%20Purity%20Style/Black%20Feather%20Iai.md)
+- [Hawk Stance](./Specialized%20Techniques/Iai%20White%20Purity%20Style/Hawk%20Stance.md)
+- [Owl Guard](./Specialized%20Techniques/Iai%20White%20Purity%20Style/Owl%20Guard.md)
+- [Black Feather Iai](./Specialized%20Techniques/Iai%20White%20Purity%20Style/Black%20Feather%20Iai.md)
