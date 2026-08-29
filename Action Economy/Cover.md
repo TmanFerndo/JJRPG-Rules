@@ -1,4 +1,5 @@
-# Overview
+# Cover
+### Overview
 When you’re behind an obstacle that could block Weapons, guard you against explosions, and make you harder to detect, you’re behind **cover**. **Standard Cover** imposes +1 difficulty on attacks made against you and grants you +1 accuracy to saves against Areas of Effects. You can increase this to **Greater Cover** using the **Take Cover** action which increases the difficulty/accuracy imposed to +2. If cover is especially light, typically when it’s provided by a creature, you have **Lesser Cover**, which grants a +1 bonus to SC. A creature with **Standard Cover** or **Greater Cover** can attempt to use **Stealth** to hide, but **Lesser Cover** isn’t sufficient.
 
 Cover is relative, so you might simultaneously have cover against one creature and not another. Cover applies only if your path to the target is partially blocked. If a creature is entirely behind a wall or the like, you don’t have line of sight and typically can’t target it at all.
