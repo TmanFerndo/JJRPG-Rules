@@ -1,4 +1,4 @@
-***
+# Actions In Combat
 When in combat sorcerers have limited time to react to stimuli. As such, the actions they can take are limited to what they can accomplish in brief moments of time. On their turn, a curse, sorcerer, or curse user can take up to **three Actions** on their turn as well as a **Quick Action**. Some Actions can only be taken once, and others can be taken more than once per turn. **Quick Actions** are actions that do not take up as much time as a regular Action. If an Action listed below has the **Quick Action Tag**, then it can be used as a Quick Action. Quick Actions can also be taken as a normal Action, however some actions can only be used once a turn. In addition to the actions you can take on your turn, every sorcerer has access to a **Reaction**. A Reaction is a once per round action that happens in response to someone else's actions. An Action can only be taken as a **Reaction** if it has the **Reaction Tag** and a Reaction cannot be used as a **Quick Action** or as an **Action**.
 
 **Attack** - the sorcerer goes on the offensive, attempting to strike at their opponent
