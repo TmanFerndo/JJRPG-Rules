@@ -3,6 +3,6 @@ The New Shadow Style is a method of Jujutsu that incorporates [Simple Domain](./
 # Directory
 - [Simple Domain](./Simple%20Domain.md)
 - [Batto Sword Drawing](./Specialized%20Techniques/New%20Shadow%20Style/Batto%20Sword%20Drawing.md)
-- [Hazy Moon](./Specialized%20Techniques/New%20Shadow%20Style/Hazy%20Moon%20Drawing.md)
+- [Hazy Moon](./Specialized%20Techniques/New%20Shadow%20Style/Hazy%20Moon.md)
 - [Maculation](./Specialized%20Techniques/New%20Shadow%20Style/Maculation.md)
 - [Evening Moon Sword Drawing](./Specialized%20Techniques/New%20Shadow%20Style/Evening%20Moon%20Sword%20Drawing.md)
