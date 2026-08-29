@@ -1,4 +1,4 @@
-***
+# Stealth
 Not all encounters need to be solved with a fight. Sometimes a sorcerer will encounter a threat that is above their paygrade. In those scenarios, it would be better to avoid a direct fight rather than to seek it out. Or, perhaps a sorcerer wants to maintain the element of surprise. When a sorcerer wants to remain unseen, they can choose to take the **Hide Action**.
 ### Hide
 In order to take the **Hide Action**, a sorcerer must have at least **Standard Cover**. If you take the **Take Cover** action to increase the quality of your Cover to **Greater Cover**, then you gain +1 accuracy to ability checks made to **Hide**. If you are behind **Total Cover** meaning that there is no line of sight between you and another creature, then you are automatically Hidden from them.
