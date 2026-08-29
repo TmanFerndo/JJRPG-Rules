@@ -12,30 +12,30 @@ This system is designed to be quick and easy to use, while also maintaining some
 - [Stealth](./Action%20Economy/Stealth.md)
 - [Weapons, Cursed Tools, and Fighting Styles](./Action%20Economy/Weapons,%20Cursed%20Tools,%20and%20Fighting%20Styles.md)
 
-[[Character Info]]
-- [[Character Death]]
-- [[Character Statistics]]
-- [[Technique Creation]]
+[Character Info](./Character%20Info/Character%20Info.md)
+- [Character Death](./Character%20Info/Character%20Death.md)
+- [Character Statistics](./Character%20Info/Character%20Statistics.md)
+- [Technique Creation](./Character%20Info/Technique%20Creation.md)
 
-[[General Jujutsu]]
-- [[Domain Progress]]
-- [[Specialized Techniques]]
-- [[Curtain]]
-- [[Simple Barrier]]
-- [[Programmed Barrier]]
-- [[Simple Shikigami]]
-- [[Programmed Shikigami]]
-- [[Simple Domain]]
-- [[Falling Blossom Emotion]]
-- [[Hollow Wicker Basket]]
-- [[Domain Amplification]]
+[General Jujutsu](./Learnable%20Techniques/General%20Jujutsu.md)
+- [Domain Progress](./Learnable%20Techniques/Domain%20Progress/Domain%20Progress.md)
+- [Specialized Techniques](./Learnable%20Techniques/Specialized%20Techniques/Specialized%20Techniques.md)
+- [Curtain](./Learnable%20Teachniques/Curtain.md)
+- [Simple Barrier](./Learnable%20Techniques/Simple%20Barrier.md)
+- [Programmed Barrier](./Learnable%20Techniques/Programmed%20Barrier.md)
+- [Simple Shikigami](./Learnable%20Techniques/Simple%20Shikigami.md)
+- [Programmed Shikigami](./Learnable%20Techniques/Programmed%20Shikigami.md)
+- [Simple Domain](./Learnable%20Techniques/Simple%20Domain.md)
+- [Falling Blossom Emotion](./Learnable%20Techniques/Falling%20Blossom%20Emotion.md)
+- [Hollow Wicker Basket](./Learnable%20Techniques/Hollow%20Wicker%20Basket.md)
+- [Domain Amplification](./Learnable%20Techniques/Domain%20Amplification.md)
 
-[[Power System]]
-- [[Barriers And Learnable Techniques]]
-- [[Binding Vows]]
-- [[Cursed Energy]]
-- [[Domain Expansion]]
-- [[Reverse Cursed Energy]]
+[Power System](./Power%20System/Power%20System.md)
+- [Barriers And Learnable Techniques](./Power%20System/Barriers%20And%20Learnable%20Techniques.md)
+- [Binding Vows](./Power%20System/Binding%20Vows.md)
+- [Cursed Energy](./Power%20System/Cursed%20Energy.md)
+- [Domain Expansion](./Power%20System/Domain%20Expansion.md)
+- [Reverse Cursed Energy](./Power%20System/Reverse%20Cursed%20Energy.md)
 ***
 # Ability Checks and Saving Throws
 Sometimes whether or not your sorcerer is capable enough to successfully complete an action is not clear based on stats alone. Maybe you are not fast enough to dodge out of the way of an attack, maybe you are not strong enough to move a large piece of debris. In these cases, you will be called to make an Ability Check. Ability Checks are determined by rolling a ten sided dice (d10) and adding the relevant Stat. For example, a Strength Check would have you roll a d10 and add your Strength Score to the roll.
