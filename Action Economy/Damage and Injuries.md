@@ -1,4 +1,4 @@
-***
+# Damage and Injuries
 After you have hit an attack, you deal damage. The damage that you deal is based on a few things:
 - Your Strength
 - Your Output
