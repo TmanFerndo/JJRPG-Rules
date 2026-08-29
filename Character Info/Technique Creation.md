@@ -1,4 +1,4 @@
-***
+# Technique Creation
 When writing your Cursed Technique, there are a lot of factors that you need to keep in mind. The style of JJK’s setting, the background of your Sorcerer, and the power scaling of the world all have an effect on your technique. While the many facets of Jujutsu may seem intimidating, they can be broken down into simpler aspects to help you write your technique.
 # What Is A Cursed Technique?
 In Jujutsu Kaisen, Cursed Techniques are the “Super Powers” that Sorcerers use to combat Curses. They use **Cursed Energy** to generate supernatural effects like levitation, invisible slashes, and teleportation.
