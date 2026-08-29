@@ -1,4 +1,4 @@
-***
+# Grappling
 When you take the Grapple Action, you make an Attack Roll against a target. On a hit, the target becomes grappled. In order to Grapple you must have at least one hand free. Trying to Grapple with only one hand free results in a -2 to Attack Rolls and STR Checks made to Grapple your target. While grappled, the following effects are applied:
 - Your target cannot move
 - Your target has a -2 to attack rolls against you
