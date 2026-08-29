@@ -1,1 +1,2 @@
+# Special Grade Domain
 You have achieved a miraculously efficient **Domain**. Through a feat of incredible CE refinement and precision, you can now expand your domain, activate your technique/**Sure-Hit-Effect**, then deactivate your **Domain** all within .2 seconds. This means that you can execute a full **domain expansion** within only one action and hit anyone within your **domain expansion** with your **Sure-Hit** once before they can react with **anti-domain techniques**.
