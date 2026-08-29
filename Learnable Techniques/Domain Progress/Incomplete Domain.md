@@ -1,4 +1,4 @@
-***
+# Incomplete Domain
 An Incomplete Domain does not incorporate a **Barrier**. As such it is highly limited:
 - The Domain must incorporate a physical barrier like walls in order to contain it
 - The Domain does not have a **Sure-Hit Effect**
