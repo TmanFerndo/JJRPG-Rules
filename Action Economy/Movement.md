@@ -1,4 +1,4 @@
-***
+# Movement
 In JJRPG, distance is measured in meters. On a square or hex grid, one grid space is equal to 1 meter and a sorcerer takes up a single grid space. In order to calculate your sorcerers movement speed, follow the formula bellow:
 - 2m + SPDm
 
