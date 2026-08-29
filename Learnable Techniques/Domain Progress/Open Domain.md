@@ -1,0 +1,2 @@
+***
+A divine feat akin to painting on air. Your **Domain** no longer needs to incorporate a **barrier** in order to activate its **Sure-Hit Effect**. As such, when you cast an open domain, you provide an escape route by removing the **Barrier** that traps sorcerers inside. This creates a **Binding Vow** that extends the range of your **Domain Expansion** to 200 meters.

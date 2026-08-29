@@ -1,0 +1,8 @@
+***
+Some uses of the **Technique Action** may require you to take the **Chant** or **Hand Sign** Actions a certain amount of times before you can activate your Technique with the **Technique Action**. If you have learned how to subtract your **Chants** and **Hand Signs** so that you no longer need them to activate your technique, you can add them back in in order to gain a **20% boost to your Output** when activating your technique. For techniques where increasing Output wouldn't affect your Technique, apply the 20% boost to the necessary effect. You need to finish all **Chants** and **Hand Signs** in order to gain the 20% boost.
+### Chanting
+Chanting is often a requirement for certain Jujutsu Techniques but it can also be used to enhance your technique. If your technique requires Chanting in order to activate, it will tell you how many uses of the **Chant Action** are required to activate your Technique. Once you have learned how to no longer include chants for the activation of your technique, you can use the **Chant Action** to enhance the power of your technique. In order to use the **Chant Action** your sorcerer must be capable of speech. If your sorcerers speech becomes impaired in any way, they cannot use the **Chant Action**.
+### Hand Signs
+Just like Chants, your Technique may require a specific amount of Hand Signs to be made for Technique Activation. Once you have learned to subtract Hand Signs from the Activation Requirements of your Technique, you can add them back in to boost your technique.
+
+You cannot gain this boost from Chants or Hand Signs for parts of your Technique that do not use Hand Signs or Chants or that use different Hand Signs or Chants. For example, Gojo’s Hollow Purple chants do not affect his Output on Lapse: Blue.

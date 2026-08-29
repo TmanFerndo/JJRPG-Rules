@@ -1,0 +1,11 @@
+# Overview
+When you’re behind an obstacle that could block Weapons, guard you against explosions, and make you harder to detect, you’re behind **cover**. **Standard Cover** imposes +1 difficulty on attacks made against you and grants you +1 accuracy to saves against Areas of Effects. You can increase this to **Greater Cover** using the **Take Cover** action which increases the difficulty/accuracy imposed to +2. If cover is especially light, typically when it’s provided by a creature, you have **Lesser Cover**, which grants a +1 bonus to SC. A creature with **Standard Cover** or **Greater Cover** can attempt to use **Stealth** to hide, but **Lesser Cover** isn’t sufficient.
+
+Cover is relative, so you might simultaneously have cover against one creature and not another. Cover applies only if your path to the target is partially blocked. If a creature is entirely behind a wall or the like, you don’t have line of sight and typically can’t target it at all.
+
+Usually, the GM can quickly decide whether your target has cover. If you’re uncertain or need to be more precise, draw a line from the center of your space to the center of the target’s space. If that line passes through any Terrain or object that would block the effect, the target has **Standard Cover** (or **Greater Cover** if the obstruction is extreme or the target has **Taken Cover**). If the line passes through a creature instead, the target has **Lesser Cover**. When measuring cover against an area effect, draw the line from the effect’s point of origin to the center of the creature’s space.
+
+
+| Lesser Cover         | Standard Cover                                                                | Greater Cover                                                                                           |
+| -------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| +1 SC<br>Cannot Hide | +1 Difficulty to incoming attacks<br>+1 Accuracy to Saving Throws<br>Can Hide | +2 Difficulty to incoming attacks<br>+2 accuracy to Saving Throws<br>+1 Accuracy to checks made to Hide |
