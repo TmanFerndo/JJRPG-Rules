@@ -1,7 +1,7 @@
 # Overview
 This system is designed to be quick and easy to use, while also maintaining some level of consistency and fairness. To accomplish this, many aspects of this system have been relegated to dice rolls. This allows for arbitrary decisions to be made without much bias. In addition, this also streamlines the process for determining damage and other outcomes for the sake of speed. This system assumes you already have base level knowledge and experience with TTRPG systems like Dungeons and Dragons and Pathfinder. If you do not, then it is recommended you learn some of the basics of those systems or seek help from your GM. It is certainly not recommended you run a game with this system as your first TTRPG.
 # Directory
-[[Action Economy]]
+[Action Economy](/Action Economy.md)
 - [[Actions In Combat]]
 - [[Attack Rolls]]
 - [[Cover]]
