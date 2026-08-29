@@ -1,4 +1,4 @@
-***
+# Weapons
 Many sorcerers choose to employ weapons to enhance their combat, though for many it becomes a crutch. The right sorcerer with the right weapon can become a demon on the battlefield, even without a cursed technique. Standard weapons give either a +3 or +6 to the wielders STR score when attacking depending on its type and all non-cursed tool weapons can only be imbued with a maximum of 5 Cursed Energy. If a weapon is imbued with more than 5 CE then it will break after the attack. In addition, Weapons can have Features attached to them which change how they function in combat. Some weapons require a certain amount of skill to use effectively. If you are not properly trained with a certain weapon, you may not be able to use all of its features and if the weapon is particularly difficult to use then you may suffer penalties to your attack rolls with it.
 
 Instead of "damage types" all weapons and Technique Effects are given a **Damage Feature** that determines what kind of injuries they can inflict.
