@@ -2,15 +2,15 @@
 This system is designed to be quick and easy to use, while also maintaining some level of consistency and fairness. To accomplish this, many aspects of this system have been relegated to dice rolls. This allows for arbitrary decisions to be made without much bias. In addition, this also streamlines the process for determining damage and other outcomes for the sake of speed. This system assumes you already have base level knowledge and experience with TTRPG systems like Dungeons and Dragons and Pathfinder. If you do not, then it is recommended you learn some of the basics of those systems or seek help from your GM. It is certainly not recommended you run a game with this system as your first TTRPG.
 # Directory
 [Action Economy](./Action%20Economy/Action%20Economy.md)
-- [[Actions In Combat]]
-- [[Attack Rolls]]
-- [[Cover]]
-- [[Damage and Injuries]]
-- [[Enhancing Your Technique]]
-- [[Grappling]]
-- [[Movement]]
-- [[Stealth]]
-- [[Weapons, Cursed Tools, and Fighting Styles]]
+- [Actions In Combat](./Action%20Economy/Actions%20In%20Combat.md)
+- [Attack Rolls](./Action%20Economy/Attack%20Rolls.md)
+- [Cover](./Action%20Economy/Cover.md)
+- [Damage and Injuries](./Action%20Economy/Damage%20and%20Injuries.md)
+- [Enhancing Your Technique](./Action%20Economy/Enhancing%20Your%20Technique.md)
+- [Grappling](./Action%20Economy/Grappling.md)
+- [Movement](./Action%20Economy/Movement.md)
+- [Stealth](./Action%20Economy/Stealth.md)
+- [Weapons, Cursed Tools, and Fighting Styles](./Action%20Economy/Weapons,%20Cursed%20Tools,%20and%20Fighting%20Styles.md)
 
 [[Character Info]]
 - [[Character Death]]
